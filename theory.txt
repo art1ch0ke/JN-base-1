@@ -7,3 +7,5 @@
                    HyperText Markup Language
 
                   Язык гипертекстовой разметки 
+https://supersimple.dev/exercises/buttons/ - упражнения
+https://unsplash.com/s/photos/code - картинки для сайта
